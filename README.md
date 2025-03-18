@@ -11,22 +11,20 @@ Alzheimer’s Care for Filipino-Americans with an iOS-Based Approach
 
 | Requirement            | Details                                          |
 |------------------------|--------------------------------------------------|
-| Platform               | iOS 15.0                                        |
-| Swift Version          | Swift 6.0.3                                       |
-| Xcode Version          | Xcode 16.2                                      |
+| Platform               | iOS 16.0+                                        |
+| Swift Version          | Swift 5.3                                       |
+| Xcode Version          | Xcode 14.0+                                      |
 | Supported Architectures| arm64, x86_64 (Simulator)                        |
 | Dependency Managers    | Swift Package Manager                            |
-| Third-Party Services   | Firebase                                         |
 | Contribution Guidelines| [Contribution Guide](#contributions)             |
 
 
 ### App Development Environment
 * IDE and Code Editor: Xcode
 * Core programming language: Swift
-* UI Frameworks: UIKit & Swift
+* UI Frameworks: UIKit & SwiftUI
 * Dependency manager: Swift Package Manager
 * Version control system: Git
-* Backend Infrastructure: Firebase SDKs
 * Hardware: Mac computer
 
 
@@ -54,12 +52,7 @@ Each target in the project (main app and extensions) requires specific signing a
    - **Automatic**: For automatic signing, check "Automatically manage signing" and ensure the correct team is selected.
    - **Manual**: For manual signing, uncheck "Automatically manage signing" and select the specific provisioning profiles for each target, aligned with their bundle identifiers and capabilities.
 
-### Step 4: Configure Firebase
-The project uses Firebase as a third-party service. the project already includes Firebase configuation, but to configure Firebase your own:
-* Download the GoogleService-Info.plist file from your Firebase project's settings page.
-* Drag and drop the GoogleService-Info.plist file into the root of your Xcode project. Ensure you select "Copy items if needed" and add the file to all relevant targets.
-
-### Step 5: Run the Project
+### Step 4: Run the Project
 Select your target device or simulator from the Xcode toolbar. Then, press the Run button (▶) to build and run the project.
 
 ## Dependencies
