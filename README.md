@@ -59,11 +59,11 @@ Select your target device or simulator from the Xcode toolbar. Then, press the R
 
 iHelp depends on the following libraries:
 
-- [Firebase](https://github.com/firebase/firebase-ios-sdk)
-- [AVFoundation](https://github.com/theos/sdks/tree/master/iPhoneOS9.3.sdk/System/Library/Frameworks/AVFoundation.framework)
-- [Alamofire](https://github.com/Alamofire/Alamofire)
-- [Coremltools](https://github.com/apple/coremltools)
-
+- [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView)
+- [DateHelper](https://github.com/melvitax/DateHelper)
+- [Reachability](https://github.com/ashleymills/Reachability.swift/blob/master/Sources/Reachability.swift)
+- [PDFKit](https://developer.apple.com/documentation/pdfkit)
+- [XCTest](https://github.com/swiftlang/swift-corelibs-xctest)
 
 ## Contributions
 Your contributions are appreciated! Here's how you can help:
