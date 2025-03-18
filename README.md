@@ -44,11 +44,23 @@ cd iHelp
 ```
 
 ### Step 2: Setting Up the Project in Xcode
-1. **Open the Project**: After cloning the repository, navigate to the project folder in Terminal.
-2. **Install Dependencies**: Run the following command to install the CocoaPods dependencies. This will generate an .xcworkspace file.
-```bash
-pod install
-```
+1. **Open the Project**: After cloning the repository, open the .xcodeproj file in Xcode:
+2. **Install Dependencies**: Xcode should automatically fetch the dependencies with Swift Package Manager. If it doesn't, you can manually fetch and update the packages by navigating to: `Xcode > File > Swift Packages > Update to Latest Package Versions`
+
+### Step 3:  Configuring Signing and Provisioning
+Each target in the project (main app and extensions) requires specific signing and provisioning settings:
+1. **Select the Team**: In Xcode's General tab for each target, select the appropriate team from the "Team" dropdown.
+2. **Manage Signing**:
+   - **Automatic**: For automatic signing, check "Automatically manage signing" and ensure the correct team is selected.
+   - **Manual**: For manual signing, uncheck "Automatically manage signing" and select the specific provisioning profiles for each target, aligned with their bundle identifiers and capabilities.
+
+### Step 4: Configure Firebase
+The project uses Firebase as a third-party service. the project already includes Firebase configuation, but to configure Firebase your own:
+* Download the GoogleService-Info.plist file from your Firebase project's settings page.
+* Drag and drop the GoogleService-Info.plist file into the root of your Xcode project. Ensure you select "Copy items if needed" and add the file to all relevant targets.
+
+### Step 5: Run the Project
+Select your target device or simulator from the Xcode toolbar. Then, press the Run button (▶) to build and run the project.
 
 ## Dependencies
 
