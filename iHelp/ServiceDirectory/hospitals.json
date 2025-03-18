@@ -1,0 +1,1535 @@
+{
+    "results": [
+        {
+            "lon": -84.51503,
+            "lat": 33.85751,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.51503,
+                    33.85751
+                ]
+            },
+            "distance": 4.257,
+            "name": "Ridgeview Institute",
+            "id": "cdb1eabd-68ec-468e-8143-2ff8d440385d",
+            "type": "Hospital",
+            "providerId": "114012",
+            "sortName": "Ridgeview Institute",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Ridgeview Institute",
+            "hospital": {
+                "overallRatingFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "mortalityGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "safetyGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "readmissionGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "timelyAndEffectiveCareGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "patientExperienceGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "dateImported": "2024-04-12T18:20:29.828Z",
+                "hash": "1e1454c9f8faa5c3d70f4a9d434b6bb8",
+                "id": "cdb1eabd-68ec-468e-8143-2ff8d440385d",
+                "providerId": "114012",
+                "addressLine1": "3995 S Cobb Drive, SE",
+                "addressCity": "Smyrna",
+                "addressState": "GA",
+                "addressZipcode": "30080",
+                "phone": "(770) 434-4567",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.51503,
+                "lat": 33.85751,
+                "name": "Ridgeview Institute",
+                "hospitalType": "Psychiatric",
+                "ownership": "Proprietary",
+                "meetsCriteriaForMeaningfulUseOfEhrs": false,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": false,
+                "overallRating": "Not Available",
+                "overallRatingFootnote": "19",
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "Not Available",
+                "mortalityGroupMeasureCount": "Not Available",
+                "mortalityMeasuresBetterCount": "Not Available",
+                "mortalityMeasuresNoDifferentCount": "Not Available",
+                "mortalityMeasuresWorseCount": "Not Available",
+                "mortalityGroupFootnote": "19",
+                "facilitySafetyMeasuresCount": "Not Available",
+                "safetyGroupMeasureCount": "Not Available",
+                "safetyMeasuresBetterCount": "Not Available",
+                "safetyMeasuresNoDifferentCount": "Not Available",
+                "safetyMeasuresWorseCount": "Not Available",
+                "safetyGroupFootnote": "19",
+                "facilityReadmissionMeasuresCount": "Not Available",
+                "readmissionGroupMeasureCount": "Not Available",
+                "readmissionMeasuresBetterCount": "Not Available",
+                "readmissionMeasuresNoDifferentCount": "Not Available",
+                "readmissionMeasuresWorseCount": "Not Available",
+                "readmissionGroupFootnote": "19",
+                "facilityTimelyAndEffectiveCareMeasuresCount": "Not Available",
+                "timelyAndEffectiveCareGroupMeasureCount": "Not Available",
+                "timelyAndEffectiveCareGroupFootnote": "19",
+                "facilityPatientExperienceMeasureCount": "Not Available",
+                "patientExperienceGroupMeasureCount": "Not Available",
+                "patientExperienceGroupFootnote": "19",
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": [
+                            {
+                                "code": 19,
+                                "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                            }
+                        ],
+                        "answerPercentFootnotes": null,
+                        "numberCompletedSurveysFootnotes": null,
+                        "surveyResponseRateFootnotes": null,
+                        "id": {
+                            "val": "uuid_generate_v4()"
+                        },
+                        "starRatingFootnote": "19"
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.35435,
+            "lat": 33.90798,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.35435,
+                    33.90798
+                ]
+            },
+            "distance": 6.457,
+            "name": "Northside Hospital",
+            "id": "64c7ebe0-92ff-4872-b33c-571d9b2e6fbd",
+            "type": "Hospital",
+            "providerId": "110161",
+            "sortName": "Northside Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Northside Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.802Z",
+                "hash": "2ec058984d6594668a936a4885842003",
+                "id": "64c7ebe0-92ff-4872-b33c-571d9b2e6fbd",
+                "providerId": "110161",
+                "addressLine1": "1000 Johnson Ferry Road, NE",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30342",
+                "phone": "(404) 851-8000",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.35435,
+                "lat": 33.90798,
+                "name": "Northside Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": false,
+                "overallRating": "4",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "6",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "6",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "3",
+                "safetyMeasuresNoDifferentCount": "5",
+                "safetyMeasuresWorseCount": "0",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "10",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "8",
+                "readmissionMeasuresWorseCount": "2",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "11",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.35377,
+            "lat": 33.90772,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.35377,
+                    33.90772
+                ]
+            },
+            "distance": 6.489,
+            "name": "Children's Healthcare of Atlanta at Scottish Rite",
+            "id": "2de260a7-cccd-4d90-abb8-d539931fad1b",
+            "type": "Hospital",
+            "providerId": "113301",
+            "sortName": "Children's Healthcare of Atlanta at Scottish Rite",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Children's Healthcare of Atlanta at Scottish Rite",
+            "hospital": {
+                "overallRatingFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "mortalityGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "safetyGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "readmissionGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "timelyAndEffectiveCareGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "patientExperienceGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "dateImported": "2024-04-12T18:20:29.827Z",
+                "hash": "8a739960176a0dc3ea62ad7f7d253d22",
+                "id": "2de260a7-cccd-4d90-abb8-d539931fad1b",
+                "providerId": "113301",
+                "addressLine1": "1001 Johnson Ferry Road",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30342",
+                "phone": "(404) 785-5252",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.35377,
+                "lat": 33.90772,
+                "name": "Children's Healthcare of Atlanta at Scottish Rite",
+                "hospitalType": "Childrens",
+                "ownership": "Voluntary non-profit - Other",
+                "meetsCriteriaForMeaningfulUseOfEhrs": false,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "Not Available",
+                "overallRatingFootnote": "19",
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "Not Available",
+                "mortalityGroupMeasureCount": "Not Available",
+                "mortalityMeasuresBetterCount": "Not Available",
+                "mortalityMeasuresNoDifferentCount": "Not Available",
+                "mortalityMeasuresWorseCount": "Not Available",
+                "mortalityGroupFootnote": "19",
+                "facilitySafetyMeasuresCount": "Not Available",
+                "safetyGroupMeasureCount": "Not Available",
+                "safetyMeasuresBetterCount": "Not Available",
+                "safetyMeasuresNoDifferentCount": "Not Available",
+                "safetyMeasuresWorseCount": "Not Available",
+                "safetyGroupFootnote": "19",
+                "facilityReadmissionMeasuresCount": "Not Available",
+                "readmissionGroupMeasureCount": "Not Available",
+                "readmissionMeasuresBetterCount": "Not Available",
+                "readmissionMeasuresNoDifferentCount": "Not Available",
+                "readmissionMeasuresWorseCount": "Not Available",
+                "readmissionGroupFootnote": "19",
+                "facilityTimelyAndEffectiveCareMeasuresCount": "Not Available",
+                "timelyAndEffectiveCareGroupMeasureCount": "Not Available",
+                "timelyAndEffectiveCareGroupFootnote": "19",
+                "facilityPatientExperienceMeasureCount": "Not Available",
+                "patientExperienceGroupMeasureCount": "Not Available",
+                "patientExperienceGroupFootnote": "19",
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": [
+                            {
+                                "code": 19,
+                                "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                            }
+                        ],
+                        "starRating": "Not Available",
+                        "starRatingFootnote": "19"
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.55044,
+            "lat": 33.96927,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.55044,
+                    33.96927
+                ]
+            },
+            "distance": 6.578,
+            "name": "Wellstar Kennestone Regional Medical Center",
+            "id": "077df771-b7e2-4845-b80c-45cbd87e7a40",
+            "type": "Hospital",
+            "providerId": "110035",
+            "sortName": "Wellstar Kennestone Regional Medical Center",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Wellstar Kennestone Regional Medical Center",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.786Z",
+                "hash": "0685870a9d4fdb147d441536ac24174c",
+                "id": "077df771-b7e2-4845-b80c-45cbd87e7a40",
+                "providerId": "110035",
+                "addressLine1": "677 Church Street",
+                "addressCity": "Marietta",
+                "addressState": "GA",
+                "addressZipcode": "30060",
+                "phone": "(770) 793-5000",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.55044,
+                "lat": 33.96927,
+                "name": "Wellstar Kennestone Regional Medical Center",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Government - Hospital District or Authority",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "4",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "7",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "7",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "3",
+                "safetyMeasuresNoDifferentCount": "4",
+                "safetyMeasuresWorseCount": "1",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "11",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "11",
+                "readmissionMeasuresWorseCount": "0",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "10",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.35184,
+            "lat": 33.90806,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.35184,
+                    33.90806
+                ]
+            },
+            "distance": 6.601,
+            "name": "Saint Joseph's Hospital of Atlanta, Inc",
+            "id": "637768a5-e35b-43a9-a026-fb9edb253da0",
+            "type": "Hospital",
+            "providerId": "110082",
+            "sortName": "Saint Joseph's Hospital of Atlanta, Inc",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Saint Joseph's Hospital of Atlanta, Inc",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.788Z",
+                "hash": "769aae29c11b1011f453c463c7b83fff",
+                "id": "637768a5-e35b-43a9-a026-fb9edb253da0",
+                "providerId": "110082",
+                "addressLine1": "5665 Peachtree Dunwoody Road",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30342",
+                "phone": "(678) 843-5720",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.35184,
+                "lat": 33.90806,
+                "name": "Saint Joseph's Hospital of Atlanta, Inc",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "4",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "7",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "7",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "2",
+                "safetyMeasuresNoDifferentCount": "5",
+                "safetyMeasuresWorseCount": "1",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "11",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "9",
+                "readmissionMeasuresWorseCount": "2",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "8",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.39576,
+            "lat": 33.80997,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.39576,
+                    33.80997
+                ]
+            },
+            "distance": 7.67,
+            "name": "Piedmont Hospital",
+            "id": "01492b89-20e2-4e9d-a9b2-e88244549db6",
+            "type": "Hospital",
+            "providerId": "110083",
+            "sortName": "Piedmont Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Piedmont Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.788Z",
+                "hash": "fc61cb299cba8f75de3160beafe4376d",
+                "id": "01492b89-20e2-4e9d-a9b2-e88244549db6",
+                "providerId": "110083",
+                "addressLine1": "1968 Peachtree Rd NW",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30309",
+                "phone": "(404) 605-5000",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.39576,
+                "lat": 33.80997,
+                "name": "Piedmont Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "4",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "7",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "2",
+                "mortalityMeasuresNoDifferentCount": "5",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "2",
+                "safetyMeasuresNoDifferentCount": "4",
+                "safetyMeasuresWorseCount": "2",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "11",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "11",
+                "readmissionMeasuresWorseCount": "0",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "10",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.60067,
+            "lat": 33.85813,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.60067,
+                    33.85813
+                ]
+            },
+            "distance": 8.336,
+            "name": "Wellstar Cobb Medical Center",
+            "id": "24434ba9-d15f-4c86-9339-dccef65a1982",
+            "type": "Hospital",
+            "providerId": "110143",
+            "sortName": "Wellstar Cobb Medical Center",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Wellstar Cobb Medical Center",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.801Z",
+                "hash": "0a73771e0ec7fb88d619b75ec9c3f58d",
+                "id": "24434ba9-d15f-4c86-9339-dccef65a1982",
+                "providerId": "110143",
+                "addressLine1": "3950 Austell Rd",
+                "addressCity": "Austell",
+                "addressState": "GA",
+                "addressZipcode": "30106",
+                "phone": "(770) 732-4000",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.60067,
+                "lat": 33.85813,
+                "name": "Wellstar Cobb Medical Center",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Other",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "3",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "6",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "6",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "1",
+                "safetyMeasuresNoDifferentCount": "7",
+                "safetyMeasuresWorseCount": "0",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "10",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "1",
+                "readmissionMeasuresNoDifferentCount": "7",
+                "readmissionMeasuresWorseCount": "2",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "11",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "2",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.30517,
+            "lat": 33.92325,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.30517,
+                    33.92325
+                ]
+            },
+            "distance": 9.369,
+            "name": "Peachford Behavioral Health System of Atlanta",
+            "id": "02db9542-6bde-417d-bdd1-5843fb83afc7",
+            "type": "Hospital",
+            "providerId": "114010",
+            "sortName": "Peachford Behavioral Health System of Atlanta",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Peachford Behavioral Health System of Atlanta",
+            "hospital": {
+                "overallRatingFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "mortalityGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "safetyGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "readmissionGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "timelyAndEffectiveCareGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "patientExperienceGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "dateImported": "2024-04-12T18:20:29.827Z",
+                "hash": "5cef6f6ea91f4f838fd9725bb3f91b17",
+                "id": "02db9542-6bde-417d-bdd1-5843fb83afc7",
+                "providerId": "114010",
+                "addressLine1": "2151 Peachford Road",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30338",
+                "phone": "(770) 455-3200",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.30517,
+                "lat": 33.92325,
+                "name": "Peachford Behavioral Health System of Atlanta",
+                "hospitalType": "Psychiatric",
+                "ownership": "Proprietary",
+                "meetsCriteriaForMeaningfulUseOfEhrs": false,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "Not Available",
+                "overallRatingFootnote": "19",
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "Not Available",
+                "mortalityGroupMeasureCount": "Not Available",
+                "mortalityMeasuresBetterCount": "Not Available",
+                "mortalityMeasuresNoDifferentCount": "Not Available",
+                "mortalityMeasuresWorseCount": "Not Available",
+                "mortalityGroupFootnote": "19",
+                "facilitySafetyMeasuresCount": "Not Available",
+                "safetyGroupMeasureCount": "Not Available",
+                "safetyMeasuresBetterCount": "Not Available",
+                "safetyMeasuresNoDifferentCount": "Not Available",
+                "safetyMeasuresWorseCount": "Not Available",
+                "safetyGroupFootnote": "19",
+                "facilityReadmissionMeasuresCount": "Not Available",
+                "readmissionGroupMeasureCount": "Not Available",
+                "readmissionMeasuresBetterCount": "Not Available",
+                "readmissionMeasuresNoDifferentCount": "Not Available",
+                "readmissionMeasuresWorseCount": "Not Available",
+                "readmissionGroupFootnote": "19",
+                "facilityTimelyAndEffectiveCareMeasuresCount": "Not Available",
+                "timelyAndEffectiveCareGroupMeasureCount": "Not Available",
+                "timelyAndEffectiveCareGroupFootnote": "19",
+                "facilityPatientExperienceMeasureCount": "Not Available",
+                "patientExperienceGroupMeasureCount": "Not Available",
+                "patientExperienceGroupFootnote": "19",
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": [
+                            {
+                                "code": 19,
+                                "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                            }
+                        ],
+                        "answerPercentFootnotes": null,
+                        "numberCompletedSurveysFootnotes": null,
+                        "surveyResponseRateFootnotes": null,
+                        "id": {
+                            "val": "uuid_generate_v4()"
+                        },
+                        "starRatingFootnote": "19"
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.38527,
+            "lat": 33.76956,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.38527,
+                    33.76956
+                ]
+            },
+            "distance": 10.396,
+            "name": "Emory University Hospital Midtown",
+            "id": "5bb01dea-e0b9-43ff-9504-e233f609f821",
+            "type": "Hospital",
+            "providerId": "110078",
+            "sortName": "Emory University Hospital Midtown",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Emory University Hospital Midtown",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.788Z",
+                "hash": "0b54991e2615efd573c7f878d19b2063",
+                "id": "5bb01dea-e0b9-43ff-9504-e233f609f821",
+                "providerId": "110078",
+                "addressLine1": "550 Peachtree Street,  NE",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30308",
+                "phone": "(404) 686-4411",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.38527,
+                "lat": 33.76956,
+                "name": "Emory University Hospital Midtown",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "2",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "7",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "7",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "1",
+                "safetyMeasuresNoDifferentCount": "6",
+                "safetyMeasuresWorseCount": "1",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "11",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "1",
+                "readmissionMeasuresNoDifferentCount": "9",
+                "readmissionMeasuresWorseCount": "1",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "10",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.32087,
+            "lat": 33.79337,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.32087,
+                    33.79337
+                ]
+            },
+            "distance": 11.342,
+            "name": "Children's Healthcare of Atlanta at Egleston",
+            "id": "e9e897e0-3cbe-4c6d-a6e1-454814856fc8",
+            "type": "Hospital",
+            "providerId": "113300",
+            "sortName": "Children's Healthcare of Atlanta at Egleston",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Children's Healthcare of Atlanta at Egleston",
+            "hospital": {
+                "overallRatingFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "mortalityGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "safetyGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "readmissionGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "timelyAndEffectiveCareGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "patientExperienceGroupFootnotes": [
+                    {
+                        "code": 19,
+                        "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                    }
+                ],
+                "dateImported": "2024-04-12T18:20:29.827Z",
+                "hash": "0a87c8e58420a175fd413ff7e0217f41",
+                "id": "e9e897e0-3cbe-4c6d-a6e1-454814856fc8",
+                "providerId": "113300",
+                "addressLine1": "1405 Clifton Road, NE",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30322",
+                "phone": "(404) 785-6101",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.32087,
+                "lat": 33.79337,
+                "name": "Children's Healthcare of Atlanta at Egleston",
+                "hospitalType": "Childrens",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": false,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "Not Available",
+                "overallRatingFootnote": "19",
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "Not Available",
+                "mortalityGroupMeasureCount": "Not Available",
+                "mortalityMeasuresBetterCount": "Not Available",
+                "mortalityMeasuresNoDifferentCount": "Not Available",
+                "mortalityMeasuresWorseCount": "Not Available",
+                "mortalityGroupFootnote": "19",
+                "facilitySafetyMeasuresCount": "Not Available",
+                "safetyGroupMeasureCount": "Not Available",
+                "safetyMeasuresBetterCount": "Not Available",
+                "safetyMeasuresNoDifferentCount": "Not Available",
+                "safetyMeasuresWorseCount": "Not Available",
+                "safetyGroupFootnote": "19",
+                "facilityReadmissionMeasuresCount": "Not Available",
+                "readmissionGroupMeasureCount": "Not Available",
+                "readmissionMeasuresBetterCount": "Not Available",
+                "readmissionMeasuresNoDifferentCount": "Not Available",
+                "readmissionMeasuresWorseCount": "Not Available",
+                "readmissionGroupFootnote": "19",
+                "facilityTimelyAndEffectiveCareMeasuresCount": "Not Available",
+                "timelyAndEffectiveCareGroupMeasureCount": "Not Available",
+                "timelyAndEffectiveCareGroupFootnote": "19",
+                "facilityPatientExperienceMeasureCount": "Not Available",
+                "patientExperienceGroupMeasureCount": "Not Available",
+                "patientExperienceGroupFootnote": "19",
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": [
+                            {
+                                "code": 19,
+                                "footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs."
+                            }
+                        ],
+                        "starRating": "Not Available",
+                        "starRatingFootnote": "19"
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.31059,
+            "lat": 33.80291,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.31059,
+                    33.80291
+                ]
+            },
+            "distance": 11.37,
+            "name": "Decatur (Atlanta) VA Medical Center",
+            "id": "28dff5b8-dd5e-4a27-8597-7340c286de31",
+            "type": "Hospital",
+            "providerId": "11029F",
+            "sortName": "Decatur (Atlanta) VA Medical Center",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Decatur (Atlanta) VA Medical Center",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.822Z",
+                "hash": "7be9c5cb3f0deb55a0a9dc6a109d2cb0",
+                "id": "28dff5b8-dd5e-4a27-8597-7340c286de31",
+                "providerId": "11029F",
+                "addressLine1": "1670 Clairmont Road",
+                "addressCity": "Decatur",
+                "addressState": "GA",
+                "addressZipcode": "30033",
+                "phone": "(404) 321-6111",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.31059,
+                "lat": 33.80291,
+                "name": "Decatur (Atlanta) VA Medical Center",
+                "hospitalType": "Acute Care - Veterans Administration",
+                "ownership": "Veterans Health Administration",
+                "meetsCriteriaForMeaningfulUseOfEhrs": false,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "2",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "5",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "1",
+                "mortalityMeasuresNoDifferentCount": "4",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "4",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "0",
+                "safetyMeasuresNoDifferentCount": "4",
+                "safetyMeasuresWorseCount": "0",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "6",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "5",
+                "readmissionMeasuresWorseCount": "1",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "6",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "2",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.3209,
+            "lat": 33.79014,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.3209,
+                    33.79014
+                ]
+            },
+            "distance": 11.492,
+            "name": "Emory University Hospital",
+            "id": "142c1f8d-53cb-494f-bdae-da3dec0e59ec",
+            "type": "Hospital",
+            "providerId": "110010",
+            "sortName": "Emory University Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Emory University Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.782Z",
+                "hash": "d453bf436612a936e10a66a7b209f00b",
+                "id": "142c1f8d-53cb-494f-bdae-da3dec0e59ec",
+                "providerId": "110010",
+                "addressLine1": "1364 Clifton Road, NE",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30322",
+                "phone": "(404) 686-8500",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.3209,
+                "lat": 33.79014,
+                "name": "Emory University Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": false,
+                "hasEmergencyServices": true,
+                "overallRating": "4",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "7",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "1",
+                "mortalityMeasuresNoDifferentCount": "6",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "1",
+                "safetyMeasuresNoDifferentCount": "4",
+                "safetyMeasuresWorseCount": "3",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "11",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "10",
+                "readmissionMeasuresWorseCount": "1",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "9",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "3",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.38202,
+            "lat": 33.75183,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.38202,
+                    33.75183
+                ]
+            },
+            "distance": 11.578,
+            "name": "Grady Memorial Hospital",
+            "id": "4d4c16d8-cb31-4a7e-8f00-331208b1d2d1",
+            "type": "Hospital",
+            "providerId": "110079",
+            "sortName": "Grady Memorial Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Grady Memorial Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.788Z",
+                "hash": "e1e58a38a5fb8e400f9f72161c290fab",
+                "id": "4d4c16d8-cb31-4a7e-8f00-331208b1d2d1",
+                "providerId": "110079",
+                "addressLine1": "80 Jesse Hill, Jr Drive SE",
+                "addressCity": "Atlanta",
+                "addressState": "GA",
+                "addressZipcode": "30303",
+                "phone": "(404) 616-4252",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.38202,
+                "lat": 33.75183,
+                "name": "Grady Memorial Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "1",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "6",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "1",
+                "mortalityMeasuresNoDifferentCount": "4",
+                "mortalityMeasuresWorseCount": "1",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "7",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "2",
+                "safetyMeasuresNoDifferentCount": "4",
+                "safetyMeasuresWorseCount": "1",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "9",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "7",
+                "readmissionMeasuresWorseCount": "2",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "9",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "2",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.28202,
+            "lat": 33.79246,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.28202,
+                    33.79246
+                ]
+            },
+            "distance": 13.117,
+            "name": "Emory Decatur Hospital",
+            "id": "1d173815-cb67-4de3-914f-063ce453e713",
+            "type": "Hospital",
+            "providerId": "110076",
+            "sortName": "Emory Decatur Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Emory Decatur Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.788Z",
+                "hash": "00be512567460354f5c748054cfc0e6e",
+                "id": "1d173815-cb67-4de3-914f-063ce453e713",
+                "providerId": "110076",
+                "addressLine1": "2701 N Decatur Road",
+                "addressCity": "Decatur",
+                "addressState": "GA",
+                "addressZipcode": "30033",
+                "phone": "(404) 501-1000",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.28202,
+                "lat": 33.79246,
+                "name": "Emory Decatur Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Voluntary non-profit - Private",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "2",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "6",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "6",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "8",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "2",
+                "safetyMeasuresNoDifferentCount": "6",
+                "safetyMeasuresWorseCount": "0",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "10",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "10",
+                "readmissionMeasuresWorseCount": "0",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "9",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "2",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        },
+        {
+            "lon": -84.32057,
+            "lat": 34.06245,
+            "geom": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:4326"
+                    }
+                },
+                "type": "Point",
+                "coordinates": [
+                    -84.32057,
+                    34.06245
+                ]
+            },
+            "distance": 13.755,
+            "name": "Wellstar North Fulton Hospital",
+            "id": "879c0568-528d-40a4-9c42-7c7213f06e80",
+            "type": "Hospital",
+            "providerId": "110198",
+            "sortName": "Wellstar North Fulton Hospital",
+            "firstName": null,
+            "lastName": null,
+            "specialties": null,
+            "addressState": "GA",
+            "isDuplicateAddress": false,
+            "isCanonicalAddress": false,
+            "sort_name": "Wellstar North Fulton Hospital",
+            "hospital": {
+                "overallRatingFootnotes": null,
+                "mortalityGroupFootnotes": null,
+                "safetyGroupFootnotes": null,
+                "readmissionGroupFootnotes": null,
+                "timelyAndEffectiveCareGroupFootnotes": null,
+                "patientExperienceGroupFootnotes": null,
+                "dateImported": "2024-04-12T18:20:29.817Z",
+                "hash": "c497d0e30b31508e87d77b1744b39c79",
+                "id": "879c0568-528d-40a4-9c42-7c7213f06e80",
+                "providerId": "110198",
+                "addressLine1": "3000 Hospital Boulevard",
+                "addressCity": "Roswell",
+                "addressState": "GA",
+                "addressZipcode": "30076",
+                "phone": "(770) 751-2500",
+                "geocodeSource": "smartystreets_strict",
+                "lon": -84.32057,
+                "lat": 34.06245,
+                "name": "Wellstar North Fulton Hospital",
+                "hospitalType": "Acute Care Hospitals",
+                "ownership": "Proprietary",
+                "meetsCriteriaForMeaningfulUseOfEhrs": true,
+                "meetsCriteriaForBirthingFriendlyDesignation": true,
+                "hasEmergencyServices": true,
+                "overallRating": "2",
+                "overallRatingFootnote": null,
+                "dataSource": "HOSPITAL_MAIN_FEED",
+                "facilityMortalityMeasuresCount": "6",
+                "mortalityGroupMeasureCount": "7",
+                "mortalityMeasuresBetterCount": "0",
+                "mortalityMeasuresNoDifferentCount": "6",
+                "mortalityMeasuresWorseCount": "0",
+                "mortalityGroupFootnote": null,
+                "facilitySafetyMeasuresCount": "7",
+                "safetyGroupMeasureCount": "8",
+                "safetyMeasuresBetterCount": "1",
+                "safetyMeasuresNoDifferentCount": "6",
+                "safetyMeasuresWorseCount": "0",
+                "safetyGroupFootnote": null,
+                "facilityReadmissionMeasuresCount": "8",
+                "readmissionGroupMeasureCount": "11",
+                "readmissionMeasuresBetterCount": "0",
+                "readmissionMeasuresNoDifferentCount": "6",
+                "readmissionMeasuresWorseCount": "2",
+                "readmissionGroupFootnote": null,
+                "facilityTimelyAndEffectiveCareMeasuresCount": "9",
+                "timelyAndEffectiveCareGroupMeasureCount": "12",
+                "timelyAndEffectiveCareGroupFootnote": null,
+                "facilityPatientExperienceMeasureCount": "8",
+                "patientExperienceGroupMeasureCount": "8",
+                "patientExperienceGroupFootnote": null,
+                "patientSurveys": [
+                    {
+                        "starRatingFootnotes": null,
+                        "starRating": "2",
+                        "starRatingFootnote": null
+                    }
+                ]
+            }
+        }
+    ],
+    "limit": 15,
+    "total": 25,
+    "page": 1,
+    "pages": 2,
+    "allMatchingProviderIds": [
+        "114032",
+        "113300",
+        "110010",
+        "110143",
+        "110076",
+        "110078",
+        "110079",
+        "110083",
+        "114035",
+        "110184",
+        "110226",
+        "11029F",
+        "110165",
+        "114012",
+        "114019",
+        "110042",
+        "110008",
+        "110230",
+        "110252",
+        "110082",
+        "110035",
+        "110161",
+        "110198",
+        "113301",
+        "114010"
+    ]
+}
