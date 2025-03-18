@@ -1,0 +1,1035 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%.f days ago" : {
+      "comment" : "Date format"
+    },
+    "%.f hours ago" : {
+      "comment" : "Date format"
+    },
+    "%.f minutes ago" : {
+      "comment" : "Date format"
+    },
+    "%.f months ago" : {
+      "comment" : "Date format"
+    },
+    "%.f seconds ago" : {
+      "comment" : "Date format"
+    },
+    "%.f weeks ago" : {
+      "comment" : "Date format"
+    },
+    "%.f years ago" : {
+      "comment" : "Date format"
+    },
+    "%@" : {
+
+    },
+    "+470 854-1487" : {
+
+    },
+    "👍" : {
+
+    },
+    "1 minute ago" : {
+      "comment" : "Date format"
+    },
+    "About Us" : {
+
+    },
+    "Address" : {
+      "localizations" : {
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Address"
+          }
+        }
+      }
+    },
+    "Address: 1100 South Marietta Pkwy SE, Marietta, GA 30060" : {
+
+    },
+    "Available Surveys" : {
+
+    },
+    "By answering a few questions, you help us understand your child's needs and improve our service for an even better experience." : {
+
+    },
+    "Change Password" : {
+
+    },
+    "Choose Language" : {
+      "localizations" : {
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        }
+      }
+    },
+    "Click Here for More Online Events" : {
+
+    },
+    "Comments" : {
+
+    },
+    "Comments ( optional )" : {
+
+    },
+    "Comments / Feedback" : {
+
+    },
+    "Community Support" : {
+
+    },
+    "CommunityView!" : {
+
+    },
+    "Company" : {
+
+    },
+    "Company ( optional )" : {
+
+    },
+    "Contact Information" : {
+
+    },
+    "Contact Number" : {
+
+    },
+    "Contact Us" : {
+
+    },
+    "Crisis Support" : {
+
+    },
+    "Date & Time" : {
+
+    },
+    "Description" : {
+
+    },
+    "Discussion Forum" : {
+
+    },
+    "Done" : {
+
+    },
+    "Email" : {
+
+    },
+    "Email Address" : {
+
+    },
+    "Email is sent with OTP to your email Successfully" : {
+
+    },
+    "Email: contact@ihelp.com" : {
+
+    },
+    "Emergency Type" : {
+
+    },
+    "Engagement" : {
+
+    },
+    "ENGAGEMENT" : {
+
+    },
+    "English" : {
+
+    },
+    "Enter your email address below and we'll send you a link to reset your password." : {
+
+    },
+    "Event Details" : {
+
+    },
+    "Event Type" : {
+
+    },
+    "Events & Activities" : {
+
+    },
+    "Failed to load data: %@" : {
+
+    },
+    "Filipino" : {
+
+    },
+    "forgetpassword.button.reset" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Password"
+          }
+        }
+      }
+    },
+    "General Inquiries" : {
+
+    },
+    "Get in Touch" : {
+
+    },
+    "Helpline" : {
+
+    },
+    "Helpline Info" : {
+
+    },
+    "Hospital" : {
+
+    },
+    "I have been there" : {
+
+    },
+    "IHelp Events" : {
+
+    },
+    "in %.f days" : {
+      "comment" : "Date format"
+    },
+    "in %.f hours" : {
+      "comment" : "Date format"
+    },
+    "in %.f minutes" : {
+      "comment" : "Date format"
+    },
+    "in %.f months" : {
+      "comment" : "Date format"
+    },
+    "in %.f seconds" : {
+      "comment" : "Date format"
+    },
+    "in %.f weeks" : {
+      "comment" : "Date format"
+    },
+    "in %.f years" : {
+      "comment" : "Date format"
+    },
+    "in 1 minute" : {
+      "comment" : "Date format"
+    },
+    "in a few seconds" : {
+      "comment" : "Date format"
+    },
+    "just now" : {
+      "comment" : "Date format"
+    },
+    "Key 1" : {
+      "extractionState" : "manual"
+    },
+    "last hour" : {
+      "comment" : "Date format"
+    },
+    "last month" : {
+      "comment" : "Date format"
+    },
+    "last week" : {
+      "comment" : "Date format"
+    },
+    "last year" : {
+      "comment" : "Date format"
+    },
+    "Learning Module" : {
+
+    },
+    "Literacy" : {
+
+    },
+    "LITERACY" : {
+
+    },
+    "LiteracyResourceView!" : {
+
+    },
+    "Location" : {
+
+    },
+    "Login successful!" : {
+
+    },
+    "login.button.forgot.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot Password?"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nakalimutan ang password?"
+          }
+        }
+      }
+    },
+    "login.button.login" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log In"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mag log in"
+          }
+        }
+      }
+    },
+    "login.button.signup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mag-sign Up"
+          }
+        }
+      }
+    },
+    "login.picker.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piliin ang Wika"
+          }
+        }
+      }
+    },
+    "login.text.dont.have.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't have an account?"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Walang account?"
+          }
+        }
+      }
+    },
+    "login.text.email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "login.text.enterdetail" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enter your details"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pakilagay ang iyong mga detalye"
+          }
+        }
+      }
+    },
+    "login.text.hello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello There!"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello Diyan!"
+          }
+        }
+      }
+    },
+    "login.text.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "Medical Emergencies" : {
+
+    },
+    "Message" : {
+
+    },
+    "Module Detail" : {
+
+    },
+    "My Profile Details" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name (optional)" : {
+
+    },
+    "Next" : {
+
+    },
+    "next hour" : {
+      "comment" : "Date format"
+    },
+    "next month" : {
+      "comment" : "Date format"
+    },
+    "next week" : {
+      "comment" : "Date format"
+    },
+    "next year" : {
+      "comment" : "Date format"
+    },
+    "No Thanks. I'm good" : {
+
+    },
+    "Objective: %@" : {
+
+    },
+    "Online Events" : {
+
+    },
+    "Operating: " : {
+
+    },
+    "Password is changed successfully!" : {
+
+    },
+    "Password is reset successfully!" : {
+
+    },
+    "Patient" : {
+
+    },
+    "Personal Information" : {
+
+    },
+    "Phone: +123 456 7890" : {
+
+    },
+    "Pick as many as you want" : {
+
+    },
+    "Preferred Language" : {
+
+    },
+    "Previous" : {
+
+    },
+    "Profile" : {
+
+    },
+    "profile.row.about.us" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About Us"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tungkol sa atin"
+          }
+        }
+      }
+    },
+    "profile.row.change.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Password"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palitan ANG password"
+          }
+        }
+      }
+    },
+    "profile.row.contact.us" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contact Us"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Makipag-ugnayan sa amin"
+          }
+        }
+      }
+    },
+    "profile.row.faq" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FAQ"
+          }
+        }
+      }
+    },
+    "profile.row.language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piliin ang Wika"
+          }
+        }
+      }
+    },
+    "profile.row.log.out" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Out"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Out"
+          }
+        }
+      }
+    },
+    "profile.row.my.profile" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Profile"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aking Profile"
+          }
+        }
+      }
+    },
+    "profile.row.privacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Policy"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patakaran sa Privacy"
+          }
+        }
+      }
+    },
+    "profile.row.submit.survey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Submit a Survey"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magsumite ng Survey"
+          }
+        }
+      }
+    },
+    "profile.row.terms" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terms & Conditions"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mga Tuntunin at Kundisyon"
+          }
+        }
+      }
+    },
+    "profile.row.version" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bersyon"
+          }
+        }
+      }
+    },
+    "Register Now" : {
+
+    },
+    "Remind Me Later" : {
+
+    },
+    "Resource" : {
+
+    },
+    "Retake Survey" : {
+
+    },
+    "SegmentedNavBarView" : {
+
+    },
+    "Send Us a Message" : {
+
+    },
+    "Service Directory" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Signup successful!" : {
+
+    },
+    "signup.button.signin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign In"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mag-sign In"
+          }
+        }
+      }
+    },
+    "signup.button.signup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign Up"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mag-sign Up"
+          }
+        }
+      }
+    },
+    "signup.text.confirm.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Password"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kumpirmahin ang Password"
+          }
+        }
+      }
+    },
+    "signup.text.create.new.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create your new account"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lumikha ng iyong bagong account"
+          }
+        }
+      }
+    },
+    "signup.text.email" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "signup.text.firstName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Name"
+          }
+        }
+      }
+    },
+    "signup.text.fullname" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Name"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buong pangalan"
+          }
+        }
+      }
+    },
+    "signup.text.have.account" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Have account?"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "May account?"
+          }
+        }
+      }
+    },
+    "signup.text.lastName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last Name"
+          }
+        }
+      }
+    },
+    "signup.text.password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "signup.text.register" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Register"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magrehistro"
+          }
+        }
+      }
+    },
+    "Submit" : {
+
+    },
+    "Submit Survey" : {
+
+    },
+    "Survey Detail" : {
+
+    },
+    "tab.emergency" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emergency"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emergency"
+          }
+        }
+      }
+    },
+    "tab.engagement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engagement"
+          }
+        }
+      }
+    },
+    "tab.health" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Health"
+          }
+        }
+      }
+    },
+    "tab.home" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "tab.literacy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Literacy"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Pag-aaral"
+          }
+        }
+      }
+    },
+    "tab.profile" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "tab.settings" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "fil" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "Take the Survey" : {
+
+    },
+    "Terms & Conditions" : {
+
+    },
+    "Thanks!" : {
+
+    },
+    "Title: %@" : {
+
+    },
+    "tomorrow" : {
+      "comment" : "Date format"
+    },
+    "User Information" : {
+
+    },
+    "User Profile" : {
+
+    },
+    "User Type" : {
+
+    },
+    "We are a passionate team dedicated to providing the best possible service to our clients. We bring creative, technical, and strategic expertise to every project we undertake." : {
+
+    },
+    "We really appreciate your feedback!" : {
+
+    },
+    "We'd love to hear from you! Whether you have a question about our services, pricing, or anything else, our team is ready to answer all your questions." : {
+
+    },
+    "yesterday" : {
+      "comment" : "Date format"
+    },
+    "Your Email" : {
+
+    },
+    "Your Name" : {
+
+    },
+    "Your opinion in only 2 minutes." : {
+
+    }
+  },
+  "version" : "1.0"
+}
