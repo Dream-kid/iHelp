@@ -61,7 +61,7 @@ iHelp depends on the following libraries:
 
 - [PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView)
 - [DateHelper](https://github.com/melvitax/DateHelper)
-- [Reachability](https://github.com/ashleymills/Reachability.swift/blob/master/Sources/Reachability.swift)
+- [Reachability](https://github.com/ashleymills/Reachability.swift)
 - [PDFKit](https://developer.apple.com/documentation/pdfkit)
 - [XCTest](https://github.com/swiftlang/swift-corelibs-xctest)
 
