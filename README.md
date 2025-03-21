@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dream-kid/iHelp/blob/main/iHelp/Resources/Assets.xcassets/AppLogo.imageset/AppLogo.png" width="100" height="100" />
+  <img src="https://github.com/Dream-kid/iHelp/blob/main/iHelp/Resources/Assets.xcassets/AppLogo.imageset/AppLogo.png" width="150" height="150" />
 </p> 
  
  # iHelp
