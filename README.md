@@ -6,7 +6,7 @@
  
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Alzheimer’s Care for Filipino-Americans with an iOS-Based Approach
+iHelp: An iOS-based mHealth system for Care Partner Activation Program for Filipino-American AD/ADRD Caregivers
 ## Requirements
 
 | Requirement            | Details                                          |
