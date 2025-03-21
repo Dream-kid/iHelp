@@ -84,6 +84,11 @@ Thank you for supporting iHelp!
 
 Feel free to report any issues or ask for help by opening an issue on GitHub.
 
+## Contributors
+Thank you to all the contributors of this project!
+
+- [Soarov Chakra Borty](https://github.com/Dream-kid)
+- [Mehedi Hasan](https://github.com/mehediy)
 
 
 ## License
