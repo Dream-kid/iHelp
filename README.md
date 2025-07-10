@@ -88,7 +88,6 @@ Feel free to report any issues or ask for help by opening an issue on GitHub.
 Thank you to all the contributors of this project!
 
 - [Mehedi Hasan](https://github.com/mehediy)
-- Trisha Bhowmick
 - [Soarov Chakra Borty](https://github.com/Dream-kid)
 
 
